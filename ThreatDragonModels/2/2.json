@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "2",
+    "owner": "2",
+    "description": "2"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "2",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "2"
+  }
+}
